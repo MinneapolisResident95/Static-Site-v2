@@ -1,10 +1,10 @@
 <style>
-
+   
 h1 {
      font-family: sans-serif;
 }
- h1 {
-   font-size: 30px;
+ h1 { 
+   font-size: 30px;   
    color: white;
      background-color: #4F583D;
      padding: 10px;
@@ -22,7 +22,12 @@ h1 {
      margin-right: 200px;
    }
 
-.container {
+img {
+  display: flex;
+  justify-content: space-between;
+}
+
+container {
   background-color: #8A584C; /* Brown */
   border: none;
   heigt: 100px;
