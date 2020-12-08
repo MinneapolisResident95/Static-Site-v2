@@ -22,12 +22,12 @@ h1 {
      margin-right: 200px;
    }
 
-img {
+.img {
   display: flex;
   justify-content: space-between;
 }
 
-container {
+.container {
   background-color: #8A584C; /* Brown */
   border: none;
   heigt: 100px;
